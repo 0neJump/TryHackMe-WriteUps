@@ -1,4 +1,4 @@
 # TryhackmeWriteUps
 WriteUps for some of the TryHackMe boxes I've done.
 
- <script src="https://tryhackme.com/badge/288040"></script>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/OneJump.png" alt="TryHackMe">
