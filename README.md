@@ -1,5 +1,5 @@
-# TryhackmeWriteUps
-WriteUps for some of the TryHackMe boxes I've done.
+# TryHackMe-WriteUps
+WriteUps for some of the TryHackMe boxes I've done (level of detail depends on my mood at the time of doing the box).
 
 THM profile: [OneJump](https://tryhackme.com/p/OneJump)
 
